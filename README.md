@@ -1,2 +1,2 @@
-# irl-reporting-rest
-(In Progress) Node REST backend to support the entering of new data from Save the IRL, and pulling existing data for display (Hack the Indian River Lagoon -- Hackathon)
+# irl-reporting-rest-layer
+(In Progress) A simple Node backend to support REST endpoints for submission of new data and retrieving of existing data.
